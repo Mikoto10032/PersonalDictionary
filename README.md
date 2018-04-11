@@ -1,2 +1,2 @@
 # PersonalDictionary
-This a personal dictionary for users
+数据结构大作业之个人用户词典
